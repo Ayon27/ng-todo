@@ -1,4 +1,8 @@
-# BasicTodo
+[Live Link](https://ng-todoapp-ayon.netlify.app/all)
+
+**Final Branch contains every funtionalities and state is managed via shared services and Observables. The Final-pro-max-w/NgRx branch contains a state management powered by NgRx instead of shared services. Moreover, Instead of CSS, SCSS has been used in that branch. Funtionalities remain the same and both are working. The final branch is deployed**
+
+# TodoApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6
 
